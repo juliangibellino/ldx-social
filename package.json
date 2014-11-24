@@ -4,7 +4,7 @@
   "private": true,
   "repository" :{
     "type" : "git",
-    "url" : "https://github.com/juliangibellino/lyons-day-social.git"
+    "url" : "https://github.com/juliangibellino/ldx-social.git"
   },
   "scripts": {
     "start": "node ./bin/www"
